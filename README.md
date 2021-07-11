@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigeryoon)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigeryoon)
+![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigeryoon)
 
 ![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Flask](http://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
