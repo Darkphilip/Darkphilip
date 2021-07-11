@@ -8,8 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigeryoon)
 
 ![python](http://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
-
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonlucky0@gmail.com)(mailto:yoonlucky0@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonlucky0@gmail.com)
 <!--
 **tigeryoon/tigeryoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
