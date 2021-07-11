@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigeryoon)
 
-![python](http://img.shields.io/badge/python-blue?style=flat-square&logo=Python&logoColor=white)
+![python](http://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Flask](http://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonlucky0@gmail.com)
 <!--
