@@ -9,7 +9,7 @@
 
 ![python](http://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
 
- </div>
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonlucky0@gmail.com)(mailto:yoonlucky0@gmail.com)
 <!--
 **tigeryoon/tigeryoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
