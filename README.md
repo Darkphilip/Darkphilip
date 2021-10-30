@@ -13,7 +13,8 @@
 ![Flask](http://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
 ![Django](http://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-<img alt="Go" src ="https://img.shields.io/badge/Go-#00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
+ ![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
 <!--
 **tigeryoon/tigeryoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
