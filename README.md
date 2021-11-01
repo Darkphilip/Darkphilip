@@ -10,9 +10,6 @@
 ## Tools
 
 ![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-<!--![Flask](http://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
-![Django](http://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
--->
 ![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
  ![Go](http://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
   ![Hyperlegder](http://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white)
