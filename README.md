@@ -7,7 +7,7 @@
 
 ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkphilip)
 
-## Tools
+## Stacks
 
 ![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
