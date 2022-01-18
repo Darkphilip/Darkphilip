@@ -9,11 +9,11 @@
 
 ## Stacks
 
-![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
-![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)
-![HTML](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)
-![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black) 
-![Javascript](http://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) 
+![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HTML](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
+![Javascript](http://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) 
 ![React](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) 
 <!--  ![Go](http://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) -->
 <!--   ![Hyperlegder](http://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white) -->
