@@ -3,7 +3,7 @@
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkphilip&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkphilip)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkphilip) -->
 
 ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkphilip)
 
@@ -14,6 +14,7 @@
 ![HTML](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)
 ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black) 
 ![Javascript](http://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) 
+![React](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) 
 <!--  ![Go](http://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) -->
 <!--   ![Hyperlegder](http://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white) -->
 
