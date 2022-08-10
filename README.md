@@ -9,7 +9,7 @@
 
 ## Stacks
 
-<!-->![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) -->
+<!-- ![python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) -->
 ![Git](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HTML](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
